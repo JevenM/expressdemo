@@ -11,8 +11,8 @@ POST {{url}}/login
 {{json}}
 
 {
-    "username":"user3",
-    "password":"a1234"
+    "username":"user5",
+    "password":"12345"
 }
 
 ### 注册
@@ -20,8 +20,8 @@ POST {{url}}/register
 {{json}}
 
 {
-    "username":"user3",
-    "password":"a1234"
+    "username":"user88",
+    "password":"12345"
 }
 
 ### 查询所有
